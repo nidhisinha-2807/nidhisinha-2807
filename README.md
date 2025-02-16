@@ -35,8 +35,7 @@
 
 ### 🤝 Let’s Connect!  
 📩 Email: [nidhisinhaab1@gmail.com](mailto:nidhisinhaab1@gmail.com)  
-💼 LinkedIn: [Your Profile Link]  
-🔗 Portfolio: [Your Portfolio Link]  
+💼 LinkedIn: [www.linkedin.com/in/nidhi2804]   
 
 💡 **I love coding, and I’m still learning. I’ll do whatever it takes to achieve my best! 🚀**  
 
