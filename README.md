@@ -41,8 +41,6 @@
 
 ## 📊 GitHub Stats  
 
-## 📊 GitHub Stats  
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nidhisinha-2807&theme=radical)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhisinha-2807&show_icons=true&theme=radical)  
