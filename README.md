@@ -41,11 +41,15 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nidhisinha-2807&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhisinha-2807&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisinha-2807&layout=compact&theme=radical)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=nidhisinha-2807&color=blue)
 
 <!--
 **nidhisinha-2807/nidhisinha-2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
