@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey there! I'm Nidhi Kiran Sinha  
 
 🚀 **Aspiring Software Engineer | Full-Stack Developer | Problem Solver**  
