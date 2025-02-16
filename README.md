@@ -39,6 +39,14 @@
 
 💡 **I love coding, and I’m still learning. I’ll do whatever it takes to achieve my best! 🚀**  
 
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
 <!--
 **nidhisinha-2807/nidhisinha-2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
