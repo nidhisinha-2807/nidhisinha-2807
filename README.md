@@ -1,61 +1,55 @@
-# Hi, I'm Nidhi 👋
+## Hi, I'm Nidhi 👋
 
-> **It started with an Instagram reel.**
+**MSc Data Science @ University of Glasgow** | Data Science · Machine Learning · Geospatial Analytics
 
-I noticed that visually impaired people can *receive* payments through a QR code and a voice confirmation, but *paying* is still hard. That question became **SpeakPay**, my final-year project: a payment app that knows it's you from your voice.
-
-I like problems like that, where the first question is "who is this hard for?" and the model comes after.
-
-Right now I'm doing my **MSc in Data Science at the University of Glasgow** and looking for graduate roles in data science, analytics and data engineering.
+I turn messy data into clear decisions, and I'm especially interested in building accessible technology.
 
 ---
 
-## 🛠️ Things I've built
+### 🔍 What I Do
 
-### 🎙️ SpeakPay: pay with your voice
-Voice-first payments for visually impaired users. Your voiceprint is your password (MFCC + ECAPA-TDNN), and I tested it against cloned voices to see if it could be fooled. Paper pending and patent in progress, so the code stays private for now.
-
-### 🗺️ Pattern DNA: missing-person risk across India
-Research project where I clustered missing-person cases into 4 distinct profiles with K-Means, then mapped each case's distance to transport hubs. Paper under review.
-
-### 🔔 [EventFlash]: an assistant that phones you
-An AI agent that pulls dates and priorities out of what you type or say, then calls you with a reminder. I built it to keep track of career fairs and deadlines while moving to Glasgow. *(LangGraph, Groq, FastAPI, Twilio)*
-
-### 🌿 [AyurVerse]: skin analysis meets herbal remedies
-Spots skin conditions from a photo and recommends herbs to help. Built at a hackathon. *(Python, MobileNet)*
-
-### 🧭 [PathFinder]: a planner that checks your energy
-Tell it your goal and it builds your daily tasks around how energetic you feel today. *(Kotlin)*
-
-Also: [coastie-beach-bestie](https://github.com/nidhisinha-2807/coastie-beach-bestie), an AI chatbot for beach recommendations and safety info.
+- Build machine learning and NLP models, including clustering, BERT embeddings and time-series forecasting
+- Analyse geospatial data to find patterns in real-world case records
+- Design voice-based and accessibility-focused applications
+- Build AI agents that turn natural language into structured data
 
 ---
 
-## 🧰 Toolbox
+### 🚀 Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=black)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logoColor=black)
+**SpeakPay: Voice-Guided Payments for Visually Impaired Users**
+Led a team of three to build a voice-guided UPI payment app with voice-fingerprint authentication (MFCC features, cosine similarity), biometric login and QR payments. Patent disclosure submitted.
 
-**Data science:** computer vision, image classification, feature engineering, data annotation
+**eventFlash: AI Event Capture & Reminder Widget** *(in development)*
+A desktop widget that captures events by voice or text using a LangGraph agent and Llama via Groq. Events are stored with FastAPI and SQLite, shown on a monthly calendar, and reminded through Twilio phone calls 24 hours ahead.
+
+**AI Pattern DNA and Geospatial Analysis of Missing Person Cases in India**
+IEEE-format research using K-Means clustering, BERT embeddings and Facebook Prophet forecasting, with geographic hotspot mapping in GeoPandas and Folium.
 
 ---
 
-## 🧭 How I work
+### 🛠️ Tech Stack
 
-- I start with the person, then the model.
-- I ask questions early when something feels off.
-- The first time I led a hackathon team, I learned to plan tightly when time is short.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 🎨 Beyond code
+**Also:** GeoPandas · BERT · LangGraph · Groq (Llama) · Microsoft Excel
 
-I draw and sketch, and there's always music on.
+---
 
-## 📬 Say hi
+### 🎓 Education & Certifications
 
-[LinkedIn](https://www.linkedin.com/in/nidhi-sinha-35bb61259) · nidhisinhaab1@gmail.com
+- MSc Data Science, University of Glasgow
+- B.Tech Computer Science (Data Science), DY Patil International University, Pune
+- AWS re/Start Graduate · Tata Group Data Visualisation · Accenture Data Analytics & Visualisation (Forage)
+
+---
+
+### 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi2804)
