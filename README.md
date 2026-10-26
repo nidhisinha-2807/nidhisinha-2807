@@ -1,8 +1,20 @@
 ## Hi, I'm Nidhi 👋
 
-**MSc Data Science @ University of Glasgow** | Data Science · Machine Learning · Geospatial Analytics
+🎓 **MSc Data Science @ University of Glasgow** | 📍 Glasgow, Scotland
 
-I turn messy data into clear decisions, and I'm especially interested in building accessible technology.
+📊 Data Science · 🤖 Machine Learning · 🗺️ Geospatial Analytics
+
+I turn messy data into clear decisions, and I'm especially interested in building technology that works for people who are often left out of the design. 💡
+
+### ✨ A bit about me
+
+- 🔍 **Curious by default.** I picked my research topic because I wanted to work on something thrilling that hadn't been explored in years, and I'm happiest when a problem has no obvious answer yet.
+- 🧩 **I start from real people.** SpeakPay began when I noticed how visually impaired users have to hold a phone to their ear to hear PIN feedback, and I wanted to build something better.
+- 🤝 **I like leading and learning.** I've led a hackathon team, organised events as part of a university club, and volunteered at awareness camps and my university's convocation. These taught me to organise work tightly under time pressure and to ask questions early when something goes wrong.
+- 🚀 **Always building.** Right now I'm working on eventFlash, an AI agent that turns what I say into calendar events and phone-call reminders.
+- 🌍 **Looking for** data science, analytics and ML roles in Glasgow, London or remote, part-time now and full-time after my degree.
+
+💬 Always happy to chat about data, accessibility or tech. Say hi on LinkedIn!
 
 ---
 
@@ -42,6 +54,8 @@ IEEE-format research using K-Means clustering, BERT embeddings and Facebook Prop
 
 **Data & Machine Learning**
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -60,9 +74,6 @@ IEEE-format research using K-Means clustering, BERT embeddings and Facebook Prop
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Also:** Facebook Prophet · K-Means Clustering · Folium · Groq (Llama) · PyWebView
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
